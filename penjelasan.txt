@@ -1,0 +1,9 @@
+GraphQL adalah bahasa yang digunakan untuk query API.
+
+sebagian bilang GraphQL bisa menjadi pengganti REST API. tetapi prakteknya GraphQL sering digunakan bersamaan dengan REST API dan bahkan saling melengkapi
+
+Kapan Menggunakan Keduanya?
+Dalam beberapa kasus, Kita dapat menggabungkan REST dan GraphQL:
+
+- Gunakan GraphQL untuk data yang kompleks atau memerlukan fleksibilitas tinggi.
+- Gunakan REST API untuk endpoint sederhana atau untuk layanan yang membutuhkan caching.
